@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Samarth Kapila
 =======================================================================================================================================
 
-I am a third-year computer science honours student at UBC, Vancouver. I am passionate about building products that make an impact and exploring the newest technologies and AI tools.
+I am a fourth-year computer science honours student at UBC, Vancouver. I am passionate about building products that make an impact and exploring the newest technologies and AI tools.
 
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [My Portfolio](http://samarthkapila.com)
