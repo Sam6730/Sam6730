@@ -9,7 +9,17 @@ I am a fourth-year computer science honours student at UBC, Vancouver. I am pass
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,js,ts,python,r,vscode,html,react,nextjs,tailwind,vite,bootstrap,nodejs,express,mongodb,supabase,firebase,graphql,figma,docker,pytorch&perline=12)](https://skillicons.dev)
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,ts,js,r,html,css&perline=12)](https://skillicons.dev)
+
+**Frameworks & Libraries**
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,tailwind,bootstrap,pytorch&perline=12)](https://skillicons.dev)
+
+**Platforms & Tools**
+
+[![Tools](https://skillicons.dev/icons?i=firebase,gcp,vercel,mongodb,mysql,supabase,git,docker,kubernetes,linux,figma,postman,vite&perline=13)](https://skillicons.dev)
 
 ### Socials
 
